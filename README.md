@@ -1,0 +1,2 @@
+# cliperadoslider
+Slider screenshot cliperado
